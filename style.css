@@ -1,0 +1,33 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #240115;
+}
+
+.logo{
+    width: 50%;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid;
+    background-color: #F2542D;
+    padding: 0px;
+}
+
+.nav{
+    display: flex;
+    gap: 10px;
+    margin-right: 10px;
+}
+
+.first-flex{
+    display: flex;
+}
+
+.main-image{
+    width: 50%;
+}

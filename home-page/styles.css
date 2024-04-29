@@ -1,0 +1,31 @@
+body {
+  
+
+}
+
+
+header {
+    background-color: #240115;
+    color: white;
+}
+
+#nav {
+    
+}
+
+#landingimage {
+    display: flex;
+}
+
+.icon {
+    width: 20%;
+}
+
+.image-box {
+    display: flex;
+    
+}
+
+#products-row {
+    display: flex;
+}
