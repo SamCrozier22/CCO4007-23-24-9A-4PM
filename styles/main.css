@@ -5,3 +5,16 @@ body {
 #logo {
     width: 30%;
 }
+
+nav {
+    display: flex;
+    text-align: right;
+    margin-left: auto;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+}
