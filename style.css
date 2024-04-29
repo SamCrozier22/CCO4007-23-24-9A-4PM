@@ -26,8 +26,46 @@ header{
 
 .first-flex{
     display: flex;
+    width: 75%;
+    margin: auto;
+    margin-top: 5%;
+    background-color: #00CFC1;
+}
+
+h2{
+    text-align: center;
+    font-size: xx-large;
+}
+
+p{
+    margin: 10px;
+}
+
+.center-flex{
+    display: flex;
+    flex-flow: column;
+    width: 50%;
+    margin: auto;
+    background-color: #D6D84F;
+}
+
+.image-flex{
+    display: flex;
+    flex-flow: row;
+    height: 150px;
+}
+
+.image{
+    width: 33.333%;
+    object-fit: cover;
 }
 
 .main-image{
     width: 50%;
+}
+
+.banner-image{
+    height: 150px;
+    margin-bottom: 50px;
+    object-fit: cover;
 }
