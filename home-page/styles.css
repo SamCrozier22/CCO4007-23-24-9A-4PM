@@ -8,5 +8,19 @@ header {
 
 #landingimage {
     display: flex;
-    align-self: center;
+}
+
+.icon {
+   
+    width: 20%;
+}
+
+.image-box {
+    display: flex;
+    flex-direction: column;
+}
+
+#products-row {
+    display: flex;
+ 
 }
