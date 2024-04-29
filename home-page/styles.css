@@ -1,9 +1,16 @@
+body {
+  
+
+}
+
+
 header {
-    display: flex;
+    background-color: #240115;
+    color: white;
 }
 
 #nav {
-    justify-self: right;
+    
 }
 
 #landingimage {
@@ -11,16 +18,14 @@ header {
 }
 
 .icon {
-   
     width: 20%;
 }
 
 .image-box {
     display: flex;
-    flex-direction: column;
+    
 }
 
 #products-row {
     display: flex;
- 
 }
