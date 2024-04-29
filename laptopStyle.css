@@ -50,8 +50,13 @@ body{
     gap:15px;
 }
 
-#container, #topBar, #content, #splash, #title1, #title2, #images, #container>img{
+#final{
+    display: flex;
+    justify-content: center;
+}
+
+#container, #topBar, #content, #splash, #title1, #title2, #images, #final{
     border-color: #00cfc1;
     border-style: solid;
-    border-width: 10px;
+    border-width: 5px;
 }
