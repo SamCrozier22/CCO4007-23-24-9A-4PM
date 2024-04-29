@@ -1,0 +1,12 @@
+header {
+    display: flex;
+}
+
+#nav {
+    justify-self: right;
+}
+
+#landingimage {
+    display: flex;
+    align-self: center;
+}

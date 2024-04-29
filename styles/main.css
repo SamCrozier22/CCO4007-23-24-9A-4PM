@@ -9,9 +9,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-header {
-    background-color: #240115;
-    color: white;
+
+
+#logo {
+    width: 30%;
+
 }
 
 nav {
@@ -46,4 +48,13 @@ nav img {
     justify-content:space-evenly;
     padding: 0.5em;
     gap: 1em;
+    text-align: right;
+    margin-left: auto;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
 }
