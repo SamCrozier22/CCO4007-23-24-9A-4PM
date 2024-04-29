@@ -1,12 +1,31 @@
+body {
+  
+
+}
+
+
 header {
-    display: flex;
+    background-color: #240115;
+    color: white;
 }
 
 #nav {
-    justify-self: right;
+    
 }
 
 #landingimage {
     display: flex;
-    align-self: center;
+}
+
+.icon {
+    width: 20%;
+}
+
+.image-box {
+    display: flex;
+    
+}
+
+#products-row {
+    display: flex;
 }
